@@ -17,13 +17,13 @@ namespace api_filmes_senai.Context
         /// </summary>
         public DbSet<Genero> Genero { get; set; }
         public DbSet<Filme> Filme { get; set; }
-
+        public object Generos { get; internal set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server = DESKTOP-0HO9ARA\\SQLEXPRESS; Database = filmes_senai; User Id = sa; Pwd = Senai@134; TrustServerCertificate=true;");
+                optionsBuilder.UseSqlServer("Server = NOTE26-S28\\SQLEXPRESS; Database = filmes_senai; User Id = sa; Pwd = Senai@134; TrustServerCertificate=true;");
             }
         }
     }
