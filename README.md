@@ -10,4 +10,4 @@ Explicação: Estamos Utilizando C# e API para o gerenciamento dos nossos filmes
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/160086543?v=4" width=115><br><sub>Ryan Rodrigues Soares</sub>]((https://github.com/ryanrsoare))
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/171977795?v=4" width=115><br><sub>Sillas Endrigo Lopes Silva</sub>]((https://github.com/Sillocazord))
-| :---: | :---: |
+| :---: |
