@@ -12,7 +12,11 @@ namespace api_filmes_senai.Interface
 
         void Deletar(Guid id);
 
-        Filme BuscarPorId(Guid id);
+        Filme BuscarFilmePorId(Guid id);
+        void Atualizar(Guid id, Genero filme);
+        Genero BuscarPorId(Guid id);
 
+        //Listar os filmes pelo seu genero - filtro
+        List<Filme> ListarPorGenero(Guid idGenero);
     }
 }
