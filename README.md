@@ -8,5 +8,7 @@ Explicação: Estamos Utilizando C# e API para o gerenciamento dos nossos filmes
 - `Ferramenta 1 - C#`: Usamos C# na parte da programação do projeto
 - `Ferramenta 2 - API`: Utilizamos API para facilitar a navegação e o cadastro do filmes e gêneros
 
+# Autores
+
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/160086543?v=4" width=115><br><sub>Ryan Rodrigues Soares</sub>](https://github.com/ryanrsoares) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/171977795?v=4" width=115><br><sub>Sillas Endrigo Lopes Silva</sub>](https://github.com/Sillocazord) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/172387907?v=4" width=115><br><sub>Herik de Lima Spada</sub>](https://github.com/HerikSpada7) |
 | :---: | :---: | :---: |
