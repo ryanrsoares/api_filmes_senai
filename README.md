@@ -1,14 +1,12 @@
 <h1 align="center"> 🎬 Projeto API [FIlmes] 🎬 </h1>
 
-Sinopse: 
+Explicação: Estamos Utilizando C# e API para o gerenciamento dos nossos filmes, assim os usuários podem tanto ver os filmes e os gêneros que quiserem quanto cadastar filmes e gêneros de seus gostos.
 
 
-Estamos Utilizando uma API para o gerenciamento dos nossos filmes, para que nossos clientes possam ter uma melhor experiencia com o nosso site e nosso aplicativo.
+# :hammer: ferramentas que usamos no projeto
 
+- `Ferramenta 1 - C#`: Usamos C# na parte da programação do projeto
+- `Ferramenta 2 - API`: Utilizamos API para facilitar a navegação e o cadastro do filmes e gêneros
 
-# :hammer: Funcionalidades do projeto
-
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/160086543?v=4" width=115><br><sub>Ryan Rodrigues Soares</sub>]([https://github.com/ryanrsoare])
+| :---: |
